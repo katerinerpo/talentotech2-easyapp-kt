@@ -28,7 +28,7 @@ El equipo cuenta con **6 integrantes**, por lo que se ha optado por combinar el 
 | :--- | :--- | :--- | :--- |
 | **Alejandro Parra** | Líder / Coordinador & Documentador / Presentador | Coordina tareas, verifica checklist, sube entrega final, redacta `README.md` y prepara presentación. | ScrumMaster |
 | **Yeison Liscano** | Desarrollador Backend | Valida *inputs*, implementa *prepared statements* y gestiona la lógica de servidor. | Secretario - Dev |
-| **Katerine Restrepo** | Desarrollador Frontend / UI | Mejora formularios, estilos y organiza *assets* estáticos. | Arquitect On prime |
+| **Katerine Restrepo** | Desarrollador Fullstack / UI | Levanta requerimientos, define HU, desarrolla MVP | Arquitect On prime |
 | **Daniel Mejia** | Administrador de BD (DBA) | Exporta `dump.sql`, verifica integridad y crea registros de prueba. | DB Master |
 | **David Aguilar** | DevOps / Deployment | Sube archivos a InfinityFree, configura `db_connect.php` y estructura `public_html`. | Arquitect Cloud |
 | **Ivan Rosero** | QA / Tester | Realiza pruebas, documenta errores y verifica correcciones. | Analista |
